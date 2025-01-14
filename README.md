@@ -16,8 +16,8 @@ The instalation steps are:
 
     !cmake .. -DCMAKE_INSTALL_PREFIX=/usr/local
 
-  !make -j$(nproc)
+    !make -j$(nproc)
 
-  !make install
+    !make install
 
   !ldconfig
