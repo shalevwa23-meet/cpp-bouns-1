@@ -20,4 +20,4 @@ The instalation steps are:
 
     !make install
 
-  !ldconfig
+    !ldconfig
