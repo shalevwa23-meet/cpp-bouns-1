@@ -1,3 +1,5 @@
+Explanation in "cpp bonus1.pdf".
+
 All required instalations are included in the colab notebook (run them please)
 These are:
 
